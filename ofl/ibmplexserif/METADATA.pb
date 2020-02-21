@@ -1,5 +1,5 @@
 name: "IBM Plex Serif"
-designer: "Bold Monday"
+designer: "Mike Abbink, Bold Monday"
 license: "OFL"
 category: "SERIF"
 date_added: "2018-03-12"

@@ -1,5 +1,5 @@
 name: "IBM Plex Sans"
-designer: "Bold Monday"
+designer: "Mike Abbink, Bold Monday"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2018-03-12"
@@ -131,6 +131,7 @@ fonts {
 }
 subsets: "cyrillic"
 subsets: "cyrillic-ext"
+subsets: "greek"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"

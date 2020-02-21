@@ -1,5 +1,5 @@
 name: "IBM Plex Sans Condensed"
-designer: "Bold Monday"
+designer: "Mike Abbink, Bold Monday"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2018-03-12"

@@ -1,5 +1,5 @@
 name: "IBM Plex Mono"
-designer: "Bold Monday"
+designer: "Mike Abbink, Bold Monday"
 license: "OFL"
 category: "MONOSPACE"
 date_added: "2018-03-12"

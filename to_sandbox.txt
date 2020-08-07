@@ -1,2 +1,8 @@
-ofl/grenzegotisch/
-ofl/museomoderno/
+ofl/bigshouldersdisplay
+ofl/bigshoulderstext
+ofl/kumbhsans
+ofl/newsreader
+ofl/georama
+ofl/fraunces
+ofl/grandstander
+ofl/cabin

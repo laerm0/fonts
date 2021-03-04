@@ -1,5 +1,5 @@
 name: "Kufam"
-designer: "Waël Morcos, Artur Schmal"
+designer: "Original Type, Wael Morcos, Artur Schmal"
 license: "OFL"
 category: "DISPLAY"
 date_added: "2020-07-14"
@@ -21,6 +21,7 @@ fonts {
   full_name: "Kufam Italic"
   copyright: "Copyright 2019 The Kufam Project Authors (https://github.com/originaltype/kufam)"
 }
+subsets: "arabic"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"

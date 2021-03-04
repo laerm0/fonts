@@ -1,4 +1,9 @@
-ofl/literata
-ofl/cinzel
-ofl/rubik
-ofl/merriweathersans
+axisregistry/optical_size.textproto
+catalog/designers/annagiedrys
+catalog/designers/davidbrezina
+catalog/designers/rosetta
+ofl/archivo
+ofl/kiwimaru
+ofl/trainone
+ofl/yuseimagic
+apache/opensans
